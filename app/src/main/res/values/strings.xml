@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KN Challenge</string>
+
+    <!-- Network Errors-->
+    <string name="networkError">Oh! You are not connected to a wifi or cellular data network. Please connect and try again</string>
+    <string name="networkErrorCode">NO_INTERNET_CONNECTION</string>
+    <string name="unknownError">Something went wrong!</string>
+
+    <string name="requestTimeOutError">Oooops! We couldn’t capture your request in time. Please try again.</string>
+
+    <string name="responseMalformedJson">Oops! We hit an error. Try again later.</string>
+
+    <!--ContactDetailActivity-->
+    <string name="send_message">Send Message</string>
+    <string name="mobile">Mobile</string>
+    <string name="back">Back</string>
+
+    <!--OtpSendFragment-->
+    <string name="send">Send</string>
+    <string name="otp_message">Hi. Your OTP is %1$d.</string>
+
+
+    <string name="otp">OTP: %1$d</string>
+    <string name="message">Message</string>
+    <string name="no_messages">No Messages Sent</string>
+
+</resources>
